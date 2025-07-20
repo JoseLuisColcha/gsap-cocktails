@@ -42,7 +42,6 @@ export const Hero = () => {
           start: "top top ",
           end: "bottom top",
           scrub: true,
-          markers: true,
         },
       })
       .to(".right-leaf", { y: 200 }, 0)
@@ -58,7 +57,6 @@ export const Hero = () => {
           start: "top top ",
           end: "bottom top",
           scrub: true,
-          markers: true,
         },
       })
       .to(".right-leaf", { y: 200 }, 0)
