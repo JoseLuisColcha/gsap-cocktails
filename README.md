@@ -1,12 +1,36 @@
-# React + Vite
+# 🍹 Sitio Web de Cócteles  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Proyecto web interactivo donde puedes explorar diferentes cócteles con un diseño moderno y animaciones atractivas.  
 
-Currently, two official plugins are available:
+🔗 **Visítalo aquí:** [👉 mojitococktails.com](https://gsap-cocktails-navy.vercel.app/)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tecnologías Utilizadas  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<div align="center">
+
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)  
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black&style=for-the-badge)  
+
+</div>
+
+---
+
+## ✨ Características  
+
+- 🍸 Catálogo visual de cócteles con información dinámica  
+- ⚡ Animaciones con **GSAP ScrollTrigger** para una navegación fluida  
+- 🎨 Diseño moderno y responsive con **TailwindCSS**  
+- ⚛️ Construido en **React** para una experiencia rápida e interactiva  
+
+---
+
+## 📸 Vista Previa  
+
+<div align="center">
+  <img src="https://i.postimg.cc/tTnSS3gC/Captura-de-pantalla-2025-09-17-192114.png" alt="Preview Sitio de Cócteles" width="800px"/>
+</div>
+
+---
